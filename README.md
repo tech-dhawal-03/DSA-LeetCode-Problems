@@ -19,4 +19,16 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->

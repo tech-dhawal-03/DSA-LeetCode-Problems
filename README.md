@@ -43,6 +43,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -43,6 +43,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -52,5 +53,10 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

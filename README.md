@@ -71,6 +71,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0110-balanced-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0110-balanced-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0110-balanced-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

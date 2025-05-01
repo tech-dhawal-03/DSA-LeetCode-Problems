@@ -6,6 +6,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -13,6 +14,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -62,6 +64,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |
 | ------- |

@@ -5,6 +5,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -32,6 +33,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers

@@ -71,6 +71,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |

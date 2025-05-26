@@ -1,17 +1,30 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-int size = nums.size();
-for(int i=0;i<size;i++){
-    for(int j=i+1;j<size;j++){
-        if((nums[i]+nums[j])== target){
-            return {i,j};
-        }
-    }
-}
+        //crearting unoredered_map to store each item's index and item
+        unordered_map<int,int>mpp;
 
-return{};
+        for(int i=0;i<nums.size();i++)
+        {
+            int complement = target-nums[i];
+            //search complement in map
+            if(mpp.find(complement)!=mpp.end())
+            {
+                //complement found
+                return {mpp[complement],i};
+            }
+
+            else
+            {
+                //enter in map
+                mpp[nums[i]] = i;
+            }
+
+
+        }
+
+
+        return {};
         
-    
-}
+    }
 };

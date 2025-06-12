@@ -88,6 +88,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0145-binary-tree-postorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -116,6 +117,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0145-binary-tree-postorder-traversal](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -131,4 +133,8 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0039-combination-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

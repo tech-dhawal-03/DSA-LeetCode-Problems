@@ -24,6 +24,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +166,9 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

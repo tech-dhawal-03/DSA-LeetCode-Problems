@@ -41,6 +41,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0039-combination-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |

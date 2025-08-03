@@ -13,19 +13,25 @@ class Solution {
 public:
     int counter = 0;
     int ans;
-    bool helper(TreeNode*root, int target)
+    void helper(TreeNode*root, int target)
     {
-        if(!root) return false;
-        if(helper(root->left,target)) return true;
+        //inorder traversal
+        if(!root) return;
+        //go in left
+        helper(root->left,target);
+        //when reaches root node
         counter++;
-        if(counter==target)
+        //also check condition
+        if(counter == target)
         {
             ans = root->val;
-            return true;
-            
+            return;
+            //don't go to right
         }
 
-        return helper(root->right,target);
+
+        helper(root->right,target);
+ 
 
     
 

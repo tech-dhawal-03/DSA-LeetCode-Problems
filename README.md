@@ -8,6 +8,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0001-two-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -20,6 +21,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,6 +42,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +64,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List

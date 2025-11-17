@@ -46,6 +46,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -184,4 +185,9 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

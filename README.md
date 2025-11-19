@@ -26,6 +26,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -170,6 +172,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
@@ -180,6 +183,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |

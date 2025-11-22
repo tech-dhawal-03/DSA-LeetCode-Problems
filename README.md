@@ -12,6 +12,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0141-linked-list-cycle](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -27,6 +28,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
@@ -50,6 +52,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |

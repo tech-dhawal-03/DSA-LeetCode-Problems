@@ -10,7 +10,7 @@ public:
         for(;right<n;right++)
         {
 
-             while(abs(left-right)>k)
+             if((right-left)>k)
             {
                 //shrink window
                 track.erase(nums[left]);

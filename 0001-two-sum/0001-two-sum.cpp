@@ -1,24 +1,26 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //crearting unoredered_map to store each item's index and item
-        unordered_map<int,int>mpp;
+
+        //an hash map to store no and its indice...
+
+        unordered_map<int,int>track;
+
+        //traversing the nums array
+
 
         for(int i=0;i<nums.size();i++)
         {
-            int complement = target-nums[i];
-            //search complement in map
-            if(mpp.find(complement)!=mpp.end())
+            int complement = target - nums[i];
+            auto it = track.find(complement);   
+            if(it!=track.end())
             {
-                //complement found
-                return {mpp[complement],i};
+                //complement found....
+
+                return {i,it->second};
             }
 
-            else
-            {
-                //enter in map
-                mpp[nums[i]] = i;
-            }
+            track[nums[i]] = i;
 
 
         }

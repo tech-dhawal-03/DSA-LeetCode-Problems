@@ -1,32 +1,46 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        //Contiguous sequence
-        unordered_set<char>charSet;
-        int start = 0;
-        int end = 0;
-        int maxLen = 0;
+        
+        //we use hash set for uniqueness of the char in the string...
 
-        for(int end=0;end<s.length();end++)
+        unordered_set<int>uniques;
+
+        //two pointer approach for traversal in O(n)...
+
+        int start = 0;
+        int end;
+        int max_len = 0;
+
+        for(end=0;end<s.length();end++)
         {
-            while(charSet.find(s[end])!=charSet.end())
-            {
-                //erase from left to decrease the size of sliding window
-                charSet.erase(s[start]);
+
+            while(uniques.find(s[end])!=uniques.end()){
+                //duplicacy occured
+                uniques.erase(s[start]);
                 start++;
 
             }
 
-            charSet.insert(s[end]);
-            maxLen = max(maxLen,end-start+1);
-            
+
+
+            //if char is unique
+            //add in the uniques
+
+
+            uniques.insert(s[end]);
+            int length = end-start+1;
+            max_len = max(length, max_len);
+
+
         }
 
 
-        return maxLen;
-    
+        return max_len;
 
 
-        
+
+
+
     }
 };

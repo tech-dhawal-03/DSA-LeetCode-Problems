@@ -50,6 +50,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -205,5 +207,6 @@ This is my repository to upload all solutions of problems which I will be solvin
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->

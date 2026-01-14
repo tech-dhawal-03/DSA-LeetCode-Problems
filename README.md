@@ -103,6 +103,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0009-palindrome-number](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -204,6 +205,7 @@ This is my repository to upload all solutions of problems which I will be solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -217,4 +219,5 @@ This is my repository to upload all solutions of problems which I will be solvin
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/tech-dhawal-03/DSA-LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

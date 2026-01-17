@@ -1,29 +1,25 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int>dp(n,0);
-        
 
-        //using tabularation
+        int curri;
+        int prev = nums[0];
+        int prev2 = 0;
 
-        dp[0] = nums[0];
-        //storing value...
-
-        for(int i=1;i<n;i++)
+        for(int i=1;i<nums.size();i++)
         {
             int rob = nums[i];
-            if(i>1) rob+=dp[i-2];
-            //take money from this house and move to a house leaving one house...
+            if(i>1) rob+=prev2;
 
-            int not_rob = dp[i-1];
-            //no money from this house, move to adjacent one....
+            int not_rob = prev;
+            curri = max(rob,not_rob);
 
-            dp[i] = max(rob,not_rob);
+            prev2 = prev;
+            prev = curri;
+            
         }
-
-
-        return dp[n-1];
         
+
+        return prev;
     }
 };
